@@ -1,4 +1,23 @@
+## Introduce
 
+<img width="413" height="531" alt="권정예 증명사진" src="https://github.com/user-attachments/assets/ce801b9b-4f56-4a88-b4ad-65f605f2a3b1" />
+
+* **Name** : Jeong-ye.Kwon
+* **E-mail** : brightyes7@cau.ac.kr
+
+---
+## Education
+* **2024~2025** : B.S. Advanced Materials Engineering, Chung-Ang University, Seoul, Korea
+* **2025~present** : B.S. Mechanical Engineering, Chung-Ang University, Seoul, Korea
+
+---
+## Skills
+* **Design Tool** : Fusion 360, Catia
+* **Control Tool** : Arduino
+* **Simulation Tool** : isaacsim, ROS2, gazebo
+* **Programing** : Matlab,  Python, C
+
+---
 ### 2024_additive_manufacturing_prosthetic_hand
 
 * **Introduce** : Development of a prosthetic hand utilizing Arduino and 3D printing (additive manufacturing).
@@ -7,7 +26,7 @@
 * **My role** : Solo Project (Responsible for CAD modeling, circuit design, and coding)
 * **more details** : Object grasping control utilizing FSR (Force Sensitive Resistor) sensors.
 * **Result** : 1st Place in the Additive Manufacturing Living Lab category.
-* **Prof** : Seok-won Lee
+* **Prof** : Seok-won.Lee
 
 <img width="874" height="540" alt="image" src="https://github.com/user-attachments/assets/e2875e1c-d011-418a-bd06-9b4a75db5781" />
 
@@ -17,7 +36,7 @@
 
 * **Introduce** : Development of a modular exoskeleton system.
 * **Term** : 2025.06 ~ 2025.09
-* **Related technology** : Python, C++
+* **Related technology** : Python, C
 * **My role** : Upper-limb control (Responsible for upper-limb control system and algorithm development)
 * **more details** : <br>
   Lower-limb control: Configured with a rigid-body structure and controlled via GCP utilizing FSR sensors. <br>

@@ -51,8 +51,7 @@
 
 * **Introduce** : Development of a cable-driven modular exosuit utilizing webbing straps.
 * **Term** : 2025.09 ~ 2026.02
-* **Related technology** : C, LabVIEW
-* **My role** : Actuator design
+* **Related technology** : C, LABview
 * **more details** : A highly scalable system where each modular set (consisting of 1 motor and 1 controller) targets a specific body part. Users can attach multiple sets simultaneously depending on the number of body parts requiring assistance.
 * **Prof** : Guik.Lee
 <img width="1744" height="499" alt="image" src="https://github.com/user-attachments/assets/0d51860b-b4fe-44d7-8738-d4f5e5035ae8" />

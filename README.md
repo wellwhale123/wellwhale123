@@ -1,6 +1,5 @@
 ## Introduce
 
-<img width="413" height="531" alt="권정예 증명사진" src="https://github.com/user-attachments/assets/ce801b9b-4f56-4a88-b4ad-65f605f2a3b1" />
 
 * **Name** : Jeong-ye.Kwon
 * **E-mail** : brightyes7@cau.ac.kr

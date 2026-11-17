@@ -6,6 +6,7 @@
     <td>
       <b>Name</b> : Jeong-ye Kwon<br>
       <b>E-mail</b> : brightyes7@cau.ac.kr<br>
+      <b>Birth<b> : 2005.12.03
       <b>GitHub</b> : github.com/wellwhale123
     </td>
   </tr>

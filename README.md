@@ -85,7 +85,7 @@
 ---
 ### 2026_real_time_hand_imitation_robot_hand
 
-* **Introduce** : Development of a 16-DoF robotic hand that imitates human hand motion in real time, based on the open-source LEAP Hand. (Capstone Design 2, 4-member team)
+* **Introduce** : Development of a 16-DoF robotic hand that imitates human hand motion in real time. (Capstone Design 2, 4-member team)
 * **Term** : 2026.09 ~ Present
 * **Related technology** : CAD, STS3215 servo, Hand pose estimation, Python
 * **My role** : Mechanical Design (Responsible for CAD modeling of the robotic hand)

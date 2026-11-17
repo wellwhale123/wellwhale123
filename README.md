@@ -14,8 +14,8 @@
 
 ---
 ## Education
-* **2024~2025** : B.S. Advanced Materials Engineering, Chung-Ang University, Seoul, Korea
-* **2025~present** : B.S. Mechanical Engineering, Chung-Ang University, Seoul, Korea (Expected early graduation: Aug. 2027)
+* **2024~2025** : B.S. Advanced Materials Engineering, Chung-Ang University
+* **2025~present** : B.S. Mechanical Engineering, Chung-Ang University (Expected early graduation: Aug. 2027)
 
 ---
 ## Skills

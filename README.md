@@ -27,7 +27,7 @@
 * **Result** : 1st Place in the Additive Manufacturing Living Lab category.
 * **Prof** : Seok-won.Lee
 
-<img width="874" height="540" alt="image" src="https://github.com/user-attachments/assets/e2875e1c-d011-418a-bd06-9b4a75db5781" />
+img width="874" height="540" alt="image" src="https://github.com/user-attachments/assets/e2875e1c-d011-418a-bd06-9b4a75db5781" /
 
 ---
 

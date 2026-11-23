@@ -6,7 +6,6 @@
     <td>
       <b>Name</b> : Jeong-ye Kwon<br>
       <b>E-mail</b> : brightyes7@cau.ac.kr<br>
-      <b>Birth</b> : 2005.12.03<br>
       <b>GitHub</b> : github.com/wellwhale123
     </td>
   </tr>
@@ -14,13 +13,13 @@
 
 ---
 ## Education
-* **2024~2025** : B.S. Advanced Materials Engineering, Chung-Ang University
-* **2025~present** : B.S. Mechanical Engineering, Chung-Ang University (Expected early graduation: Aug. 2027)
+* **2024~2025** : B.S. Advanced Materials Engineering, Chung-Ang University, Seoul, Korea
+* **2025~present** : B.S. Mechanical Engineering, Chung-Ang University, Seoul, Korea (Expected early graduation: Aug. 2027)
 
 ---
 ## Skills
 * **Design Tool** : Fusion 360, CATIA, KiCad
-* **Control Tool** : Arduino, LabVIEW
+* **Control Tool** : Arduino
 * **Simulation Tool** : Isaac Sim, MuJoCo, Gazebo, ROS 2
 * **Programming** : C, C++, Python, MATLAB
 
@@ -33,7 +32,6 @@
 * **My role** : Solo Project (Responsible for CAD modeling, circuit design, and coding)
 * **More details** : Object grasping control utilizing FSR (Force Sensitive Resistor) sensors.
 * **Result** : 1st Place in the Additive Manufacturing Living Lab category.
-* **Prof** : Seok-won Lee
 
 <img width="874" height="540" alt="image" src="https://github.com/user-attachments/assets/e2875e1c-d011-418a-bd06-9b4a75db5781" />
 
@@ -49,7 +47,7 @@
   Lower-limb control: Configured with a rigid-body structure and controlled via GCP utilizing FSR sensors. <br>
   Upper-limb control: Designed with a hybrid cable-driven and rigid-body structure, and controlled via ASP utilizing IMU sensors.
 * **Result** : 1st Place in the Control category, Department of Mechanical Engineering / 1st Place overall among 140 teams in the College of Engineering.
-* **Prof** : Guik Lee
+* **Demo** : https://youtu.be/LMALaXB1RWw
 
 <img width="1826" height="971" alt="스크린샷 2026-06-21 080319" src="https://github.com/user-attachments/assets/925a4123-51a7-4649-9ffb-b4d96d05a575" />
 
@@ -58,10 +56,10 @@
 
 * **Introduce** : Development of a cable-driven modular exosuit utilizing webbing straps.
 * **Term** : 2025.09 ~ 2026.02
-* **Related technology** : C, LabVIEW, CAD
-* **My role** : Motor controller design
+* **Related technology** : C, CAD
+* **My role** : Member of the motor controller design team
 * **More details** : A highly scalable system where each modular set (consisting of 1 motor and 1 controller) targets a specific body part. Users can attach multiple sets simultaneously depending on the number of body parts requiring assistance.
-* **Prof** : Guik Lee
+* **Demo** : https://youtube.com/shorts/u53_XHlh6Qs
 
 <img width="1744" height="499" alt="image" src="https://github.com/user-attachments/assets/0d51860b-b4fe-44d7-8738-d4f5e5035ae8" />
 
@@ -77,7 +75,7 @@
     * Step 1. Static Sensor - Static Object
     * Step 2. Static Sensor - Moving Object
     * Step 3. Moving Sensor - Moving Object
-* **Prof** : Seok-won Lee
+* **Demo** : https://youtu.be/wFiP9yCEH0Y
 
 <img width="2044" height="1038" alt="image" src="https://github.com/user-attachments/assets/67e81e94-7a9c-4536-b19d-9017a6e456f5" />
 <img width="2091" height="943" alt="image" src="https://github.com/user-attachments/assets/3183a470-97cb-4d19-9264-77637af108e2" />
@@ -90,13 +88,11 @@
 * **Related technology** : CAD, STS3215 servo, Hand pose estimation, Python
 * **My role** : Mechanical Design (Responsible for CAD modeling of the robotic hand)
 * **More details** :
-  * Re-modeled the LEAP Hand design as a fully actuated hand with joint-mounted servo actuators (16 × STS3215, 1:345 gear ratio).
+  * Designed as a fully actuated hand with joint-mounted servo actuators (16 × STS3215, 1:345 gear ratio).
   * Trained a custom hand keypoint estimation model (without MediaPipe) to recognize the user's hand from a single RGB camera (Logitech C922).
   * Mapped the recognized hand joints to the robot hand in real time, aiming for object grasping that follows the user's hand.
-* **Prof** : Woo-chul Nam
 
-<img width="1127" height="1131" alt="image" src="https://github.com/user-attachments/assets/7f6bff7c-6976-4414-b6a1-4392277cdaa7" />
-
+<img width="..." alt="robot hand" src="여기에_사진_주소" />
 
 ---
 ### 2026_soft_foot_humanoid
@@ -108,5 +104,4 @@
 * **More details** :
   * Leading the control team for the lower-body electronics part, including PCB design.
   * Leading technical training for team members.
- 
-  <img width="936" height="1197" alt="image" src="https://github.com/user-attachments/assets/cf5a1543-9bd5-4829-b308-79bd19daab5e" />
+* **Demo** : https://youtube.com/shorts/2ljfwDGwjOg
